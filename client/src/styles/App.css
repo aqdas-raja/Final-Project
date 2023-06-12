@@ -1,0 +1,15 @@
+body {
+    background: #FFD700;
+    background: -webkit-linear-gradient(to right, #FFD700, #FFA500);
+    background: linear-gradient(to right, #FFD700, #FFA500);
+  }
+  
+  
+
+/* #dashboard h1 {
+    color: #ccc;
+    text-align: center;
+    border: 2px dashed #ccc;
+    margin-top: 0;
+    padding: 10px;
+} */
